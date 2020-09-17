@@ -19,6 +19,7 @@ Step 5- initialise the speaker object.
           speaker= pyttsx3.init()
 
 Step 6- Run the code in a loop from the page you want the reader to read.
+        
         for num in range(8,pages):
            page=pdfReader.getPage(8)
            text=page.extractText()
