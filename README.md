@@ -11,9 +11,11 @@ Step 2 - Download and install the package PyPDF2
 Step 3 - import the packages in your python file .
 
 Step 4 - import the book you want the computer to read 
+          
           book=open('Computer_networking_Principles.pdf','rb')
 
 Step 5- initialise the speaker object.
+          
           speaker= pyttsx3.init()
 
 Step 6- Run the code in a loop from the page you want the reader to read.
