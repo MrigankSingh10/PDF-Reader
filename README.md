@@ -22,6 +22,7 @@ Step 6- Run the code in a loop from the page you want the reader to read.
            text=page.extractText()
            speaker.say(text)
            speaker.runAndWait()
+
 Step 7 - Run the Code and enjoy my Friend ;) 
 
 You can contact me to know more about the code or any other query.
