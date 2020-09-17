@@ -12,6 +12,9 @@ Step 2 - Download and install the package PyPDF2
           Documentation-https://pythonhosted.org/PyPDF2/
 
 Step 3 - import the packages in your python file .
+           
+           import pyttsx3
+           import PyPDF2
 
 Step 4 - import the book you want the computer to read 
           
