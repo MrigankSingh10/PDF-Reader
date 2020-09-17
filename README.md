@@ -2,10 +2,12 @@
 This project is made to convert a normal ebook in pdf file format to an audio book.
 
 Step 1 - Download and install the package pyttsx3. (pip install pyttsx)
+          
           This package is the speech to text converter.
           You can read it's documentation here-https://pypi.org/project/pyttsx3/
           
 Step 2 - Download and install the package PyPDF2
+          
           This package will extract text from your pdf files.
           Documentation-https://pythonhosted.org/PyPDF2/
 
