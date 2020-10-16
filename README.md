@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/mriganksingh10/PDF-Reader.svg)](http://hits.dwyl.com/mriganksingh10/PDF-Reader)
+
 # PDF-Reader
 This project is made to convert a normal ebook in pdf file format to an audio book.
 
